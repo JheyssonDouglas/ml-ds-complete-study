@@ -22,10 +22,14 @@ Imagine matemática e estatística como a **linguagem** que os dados falam. Sem 
 
 Fundamental para manipular dados em múltiplas dimensões.
 
-- **Vetores**: lista ordenada de números. Ex: $\mathbf{v} = [2, 3, 5]$
+- **Vetores**: lista ordenada de números.
 - **Matrizes**: tabelas de números organizados em linhas e colunas.
 
-Exemplo:  
+Exemplo Vetores:
+```
+V = [2, 3, 5]
+```
+Exemplo Matrizes:  
 ```
 A = [[1, 2],
      [3, 4]]

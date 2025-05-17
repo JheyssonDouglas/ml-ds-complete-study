@@ -26,12 +26,10 @@ Fundamental para manipular dados em múltiplas dimensões.
 - **Matrizes**: tabelas de números organizados em linhas e colunas.
 
 Exemplo:  
-$
-A = \begin{bmatrix}
-1 & 2 \\
-3 & 4 \\
-\end{bmatrix}
-$
+```
+A = [[1, 2],
+     [3, 4]]
+```
 
 - **Operações com matrizes**: soma, multiplicação, transposição.
 - **Produto escalar**: multiplicação de vetores que resulta em um número, usado para medir similaridade.
@@ -60,7 +58,9 @@ Resumo dos dados para entender sua distribuição e características.
 - **Desvio padrão ($\sigma$)**: raiz quadrada da variância, indica quanto os dados se afastam da média.
 
 Exemplo:  
+```
 Dados: 2, 4, 4, 6, 8  
+```
 - Média = $\frac{2 + 4 + 4 + 6 + 8}{5} = 4.8$
 - Mediana = 4 (valor central)  
 - Moda = 4 (mais frequente)  
@@ -77,8 +77,9 @@ Probabilidade é a medida da chance de um evento ocorrer.
 - Eventos podem ser independentes, mutuamente exclusivos, etc.
 
 Exemplo:  
-A probabilidade de tirar um número 4 em um dado comum de 6 lados é $ \frac{1}{6} \approx 0.1667 $.
-
+```
+A probabilidade de tirar um número 4 em um dado comum de 6 lados é 1/6 ≈ 0.1667.
+```
 ---
 
 ### 2.3 Distribuições de Probabilidade

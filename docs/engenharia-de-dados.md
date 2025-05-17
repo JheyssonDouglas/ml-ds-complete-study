@@ -116,5 +116,5 @@ df['dia_semana'] = df['data'].dt.day_name()
 |---------------------|----------------------------------------------------------|
 | **Limpeza de Dados**   | Remove ou corrige dados inválidos              |
 | **Transformação**     | Ajusta os valores para melhorar a performance dos modelos      |
-| **MEngenharia de Atributos** | Cria novas variáveis mais representativas |
+| **Engenharia de Atributos** | Cria novas variáveis mais representativas |
 
